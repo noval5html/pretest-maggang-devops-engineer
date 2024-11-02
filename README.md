@@ -19,14 +19,17 @@
    termasuk perangkat keras (seperti komputer dan jaringan), perangkat lunak (seperti
    sistem operasi), dan layanan internet. Infrastruktur yang baik membuat semua
    aplikasi dan data bisa diakses dengan mudah dan efisien.
+
 3. komputer yang menyediakan layanan untuk komputer lain. contoh server termasuk:
     - Web Server: Menyajikan halaman website, contohnya Apache dan Nginx.
     - Database Server: Menyimpan data, contohnya MySQL dan PostgreSQL.
     - Application Server: Menjalankan aplikasi, contohnya JBoss.
     - File Server: Menyimpan dan berbagi file, contohnya Windows Server.
+      
 4. - menjalankan aplikasi
    - menyimpan data
    - pengujian
+     
 5. Virtualisasi adalah teknologi yang memungkinkan kita membuat beberapa
    "komputer virtual" dari satu komputer fisik. Ini membantu memanfaatkan
    sumber daya dengan lebih baik.
@@ -34,7 +37,9 @@
   Container adalah cara untuk mengemas aplikasi dengan semua yang dibutuhkannya,
   sehingga aplikasi tersebut bisa berjalan di mana saja dengan mudah. Docker adalah
   contoh teknologi yang menggunakan container.
+  
 6. - efisiensi
    - kecepatan
+     
 7. - mengatur jaringan
    - mengelola sumber daya
